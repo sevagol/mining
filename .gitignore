@@ -1,2 +1,10 @@
 secrets.toml
 /strlam/
+extract_emb_sql.ipynb
+extract_embeddings.ipynb
+faiss_index_constitution
+data2
+storage
+streamlit_app.py
+newstreamlit.py
+tofaiss.ipynb
